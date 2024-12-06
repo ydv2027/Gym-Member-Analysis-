@@ -30,4 +30,5 @@ This project analyzes gym member data to uncover trends in attendance, workout p
 
 ## Author
 Swatantra Yadav
+
 E-Mail:swatantra.yadav2027@gmail.com
